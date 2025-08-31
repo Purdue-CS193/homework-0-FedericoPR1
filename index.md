@@ -9,6 +9,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+- Great Class to learn in
+- Most Fun Class
+- The Greatest Class
+- Ammount of content learned in the class
+
 ```markdown
 Syntax highlighted code block
 
@@ -18,10 +23,6 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-- Great Class to learn in
-- Most Fun Class
-- The Greatest Class
-- Ammount of content learned in the class
 1. Numbered
 2. List
 
